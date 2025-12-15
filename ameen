@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <title>قائمة مراجعة بناء موجه نظام</title>
+  <style>
+    body { font-family: sans-serif; background:#f9fafb; color:#111; margin:0; padding:20px; }
+    h1 { color:#2563eb; }
+    .card { background:#fff; border:1px solid #ddd; border-radius:8px; padding:16px; margin-bottom:16px; }
+    ul { line-height:1.8; }
+  </style>
+</head>
+<body>
+  <h1>📝 قائمة مراجعة لبناء موجه نظام</h1>
+  <div class="card">
+    <ul>
+      <li><strong>الهوية:</strong> عرّف النموذج ودوره وجمهوره.</li>
+      <li><strong>المبادئ:</strong> ضع 3–5 قواعد أساسية (الدقة، الاستشهاد، الوضوح).</li>
+      <li><strong>السلامة:</strong> وضّح الحواجز (لا نصائح طبية/مالية، رفض الضار، معالجة الغموض).</li>
+      <li><strong>الإخراج:</strong> حدّد شكل النتيجة (JSON أو جدول).</li>
+      <li><strong>الأدوات:</strong> عرّف الأدوات المتاحة (بحث، كود).</li>
+      <li><strong>المنطق:</strong> وضّح خطوات التفكير (خطط → نفّذ → راقب → عدّل).</li>
+      <li><strong>الجودة:</strong> راجع النتيجة ونقّحها.</li>
+      <li><strong>الأمثلة:</strong> أضف مثال أو اتنين للتوضيح.</li>
+    </ul>
+  </div>
+  <p>احفظ هذا الملف كـ <code>index.html</code> وافتحه في المتصفح ليظهر كصفحة مراجعة جاهزة.</p>
+</body>
+</html>
