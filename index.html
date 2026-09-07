@@ -522,6 +522,13 @@
 </div>
 
 <script>
+    const SUPABASE_URL = "https://ybymelvhoearzyabllts.supabase.co";
+const SUPABASE_KEY = "sb_publishable_nTJvq02LJmTd9kwi5XMS8w_-BHbieaV";
+
+const supabase = window.supabase.createClient(
+    SUPABASE_URL,
+    SUPABASE_KEY
+);
     // ============= تصنيف المناطق حسب السعر =============
     const AREAS_PRICE_B = [
         "غرناطة", "الصليبخات", "النهضة", "مدينة جابر الأحمد", "القيروان", "الدوحة", "دسمان", "منطقة شرق", "الصوابر", 
